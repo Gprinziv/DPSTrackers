@@ -1,0 +1,24 @@
+It's an ADC DPS tracker!
+This module is designed to calculate ideal DPS (including skill damage, passives, items, etc.)
+as well as let the user see their output in less than ideal situations (you can't attack when stunned or running, for example)
+and against various levels of defense stats.
+
+Currently, it's not working (user interface is to come).
+I'm focusing on getting the theoretical model for champions done one at a time.
+I'll be adding features to Tracker.py to make a friendly interface as soon as I get a chance and learn PyGui.
+I'll also be updating this README to comply with Markdown and to have a complete list of features and usage when I get a chance.
+If you have a feature/champion request, please e-mail me at gprinziv@gmail.cm and I'll see what I can do!
+
+   Copyright 2015 Giovanni Prinzivalli
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
